@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Srilekha Reddy
-- 👀 I have an M.Tech in Mechanical Engineering and am currently expanding my skills in Data Analysis. I've completed the Google Data Analytics certification and am passionate about transforming data into meaningful insights. 🌱
+- 👀 I am currently expanding my skills in Data Analysis. I've completed the Google Data Analytics certification and am passionate about transforming data into meaningful insights. 🌱
 
 
 
